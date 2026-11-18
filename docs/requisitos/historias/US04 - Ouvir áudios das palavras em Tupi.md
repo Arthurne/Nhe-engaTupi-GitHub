@@ -42,3 +42,9 @@ When o estudante aciona o controle de áudio de uma palavra, Then o sistema repr
 **Scenario Principal:**
 
 - Given palavra com áudio associado, When acionar reprodução, Then o áudio toca e a grafia permanece visível.
+
+**Cenário alternativo: áudio indisponível**
+
+- **Dado** que a palavra não possui áudio disponível
+- **Quando** a pessoa usuária abrir a entrada
+- **Então** o sistema deve informar que o áudio não está disponível, sem simular uma reprodução
