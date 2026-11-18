@@ -42,3 +42,9 @@ When o estudante acessa a área de revisão e seleciona uma lição concluída, 
 **Scenario Principal:**
 
 - Given lição concluída anteriormente, When selecionar na Tela 4 (Revisão), Then o conteúdo é reaberto.
+
+**Cenário alternativo: histórico vazio**
+
+- **Dado** que a pessoa usuária ainda não concluiu lições nem possui palavras registradas
+- **Quando** acessar a área de revisão
+- **Então** o sistema deve informar que não há conteúdos para revisar
