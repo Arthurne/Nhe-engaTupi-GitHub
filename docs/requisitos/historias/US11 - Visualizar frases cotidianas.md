@@ -42,3 +42,9 @@ When o estudante seleciona uma categoria de frases, Then visualiza expressões c
 **Scenario Principal:**
 
 - Given categoria selecionada na Tela 6, When abrir, Then exibe frases validadas com tradução e contexto.
+
+**Cenário alternativo: frase sem validação adequada**
+
+- **Dado** que uma expressão ainda não foi validada por fonte adequada
+- **Quando** o conteúdo for preparado para publicação
+- **Então** a expressão não deve ser apresentada como autêntica ou definitiva até que a validação necessária seja realizada
