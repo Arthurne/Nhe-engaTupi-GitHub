@@ -155,14 +155,14 @@ end note
 
 ## 1. O que compõe a entrega
 
-1. [**Documento de Visão do Produto**](Tasks/Documento%20de%20Vis%C3%A3o%20do%20Produto%20c9770191d97883e4938381f8f8ed135c.md) — problema, objetivo e proposta.
-2. [Entrevista + Personas — referência principal (1)](Entrevista%20+%20Personas%20%E2%80%94%20refer%C3%AAncia%20principal%20(1)%201b370191d978820eab4281de0de2faa2.md) — tratar como simulação, não como pesquisa real.
-3. [Backlog do Produto — v1 (18 histórias) (1)](Backlog%20do%20Produto%20%E2%80%94%20v1%20(18%20hist%C3%B3rias)%20(1)%205c670191d9788378b3df81521529fc2b.md) — histórico preservado.
-4. [Sprint 1 — User Stories Éticas (UE01–UE25) (1)](Sprint%201%20%E2%80%94%20User%20Stories%20%C3%89ticas%20(UE01%E2%80%93UE25)%20(1)%202e370191d97882e69f350149d595b1c2.md) — requisitos éticos.
-5. [Sprint 2 — Backlog v2, protótipos e BDD (1)](Sprint%202%20%E2%80%94%20Backlog%20v2,%20prot%C3%B3tipos%20e%20BDD%20(1)%20b8570191d978826790d401ee5193674c.md) — escopo funcional de referência, protótipos conceituais e cenários.
-6. [Matriz de Rastreabilidade — Nhe’engaTupi (1)](Matriz%20de%20Rastreabilidade%20%E2%80%94%20Nhe%E2%80%99engaTupi%20(1)%200ae70191d978830d92be816d88a17c45.md) — liga US01–US11, UE, protótipos e BDD.
-7. [Apresentação do projeto](Tasks/Apresenta%C3%A7%C3%A3o%20do%20projeto%20a0f70191d9788335b33c01ec270b6430.md) — roteiro sugerido de 11 slides.
-8. [Sprint 4](milestones%20(1)/Sprint%204%20b3970191d97883658c9d01ce4787919c.md) — controle de pendências.
+1. [**Documento de Visão do Produto**](../gestao/Documento%20de%20Visão%20do%20Produto%20-%20tarefa.md) — problema, objetivo e proposta.
+2. [Entrevista + Personas — referência principal (1)](../pesquisa/Entrevista%20+%20Personas.md) — tratar como simulação, não como pesquisa real.
+3. [Backlog do Produto — v1 (18 histórias) (1)](../requisitos/Histórias%20de%20usuário.md) — histórico preservado.
+4. [Sprint 1 — User Stories Éticas (UE01–UE25) (1)](../requisitos/User%20Stories%20Éticas%20(UE01–UE25).md) — requisitos éticos.
+5. [Sprint 2 — Backlog v2, protótipos e BDD (1)](Sprint%202.md) — escopo funcional de referência, protótipos conceituais e cenários.
+6. [Matriz de Rastreabilidade — Nhe’engaTupi (1)](../requisitos/Matriz%20de%20Rastreabilidade.md) — liga US01–US11, UE, protótipos e BDD.
+7. [Apresentação do projeto](../apresentacao/Apresentação%20do%20projeto%20-%20tarefa.md) — roteiro sugerido de 11 slides.
+8. [Sprint 4](Sprints%20docs.md) — controle de pendências.
 
 ## 2. Decisões de escopo recomendadas para esta entrega
 
