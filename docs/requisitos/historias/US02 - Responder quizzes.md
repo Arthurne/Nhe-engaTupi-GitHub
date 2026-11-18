@@ -42,3 +42,9 @@ When o estudante responde a uma pergunta do quiz e confirma, Then o sistema vali
 **Scenario Principal:**
 
 - Given um quiz iniciado, When selecionar alternativa incorreta e confirmar, Then o sistema informa respeitosamente e apresenta explicação.
+
+**Cenário alternativo: resposta correta**
+
+- **Dado** que a pessoa usuária iniciou um quiz com uma pergunta e alternativas
+- **Quando** selecionar a alternativa correta e confirmar a resposta
+- **Então** o sistema deve informar que a resposta está correta e apresentar o feedback previsto
