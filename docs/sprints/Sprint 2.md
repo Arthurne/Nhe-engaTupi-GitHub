@@ -8,6 +8,8 @@ Status: Done
 
 Transformar o backlog v2 em um plano funcional verificável, com prioridades, protótipos conceituais e cenários BDD.
 
+> **Leitura do status:** o campo `Status: Done` é mantido como registro da exportação. Ele não significa que todas as validações listadas neste documento foram concluídas: os checklists de revisão, confirmação de responsáveis, fontes e critérios continuam indicando pendências.
+
 ## Backlog v2 consolidado
 
 A versão v1 deve permanecer preservada. A v2 descrita no documento tem 11 histórias:
