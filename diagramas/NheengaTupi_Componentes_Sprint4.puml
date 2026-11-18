@@ -1,0 +1,56 @@
+@startuml
+title Nhe’engaTupi - Diagrama de Componentes
+left to right direction
+skinparam componentStyle uml2
+skinparam packageStyle rectangle
+
+package "Apresentação - MVC" {
+  [Interface Móvel] as UI
+  [Controladores MVC] as CTRL
+  UI --> CTRL : ações do usuário
+}
+
+package "Aplicação e Domínio" {
+  [Serviço de Aprendizagem] as APREND
+  [Serviço de Conteúdo Linguístico e Cultural] as CONTEUDO
+  [Serviço de Progresso e Revisão] as PROGRESSO
+  [Serviço Offline] as OFFLINE
+  [Serviço de Metas e Pontuação] as METAS
+  [Serviço Premium] as PREMIUM
+}
+
+package "Persistência e Infraestrutura" {
+  interface "Repositórios" as REPOS
+  [Adaptadores de Persistência] as ADAPT
+  [Armazenamento Local Offline] as LOCAL
+  [Fontes de Conteúdo] as FONTES
+  REPOS <|.. ADAPT
+  ADAPT --> LOCAL
+  ADAPT --> FONTES
+}
+
+CTRL --> APREND
+CTRL --> CONTEUDO
+CTRL --> PROGRESSO
+CTRL --> OFFLINE
+CTRL --> METAS
+CTRL --> PREMIUM
+
+APREND --> REPOS
+CONTEUDO --> REPOS
+PROGRESSO --> REPOS
+OFFLINE --> CONTEUDO
+OFFLINE --> LOCAL
+METAS --> REPOS
+PREMIUM --> REPOS
+
+note right of PREMIUM
+  Regras comerciais e integração
+  de pagamento ainda não definidas.
+end note
+
+note bottom of CONTEUDO
+  Palavras, áudios, frases e conteúdos
+  dependem de fontes e validação adequadas.
+end note
+@enduml

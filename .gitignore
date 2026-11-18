@@ -1,0 +1,18 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários e de editores
+*.tmp
+*.bak
+.vscode/
+.idea/
+
+# Ambientes e dependências (ajustar conforme a tecnologia adotada)
+.env
+.env.*
+node_modules/
+venv/
+.venv/
+__pycache__/
