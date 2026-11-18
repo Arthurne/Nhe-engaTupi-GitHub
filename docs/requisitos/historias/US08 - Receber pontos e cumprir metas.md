@@ -42,3 +42,9 @@ When o estudante conclui atividade elegível ou ajusta sua meta diária, Then o 
 **Scenario Principal:**
 
 - Given meta configurável, When alterar para valor permitido, Then o sistema salva sem mensagens punitivas.
+
+**Cenário alternativo: meta inválida**
+
+- **Dado** que a pessoa usuária está configurando uma meta de estudo
+- **Quando** informar um valor fora dos limites permitidos
+- **Então** o sistema deve explicar o problema e solicitar um valor válido, sem mensagem punitiva
