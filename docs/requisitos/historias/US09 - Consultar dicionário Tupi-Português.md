@@ -42,3 +42,9 @@ When o estudante pesquisa um termo no dicionário, Then o sistema exibe signific
 **Scenario Principal:**
 
 - Given termo existente no dicionário, When realizar busca na Tela 5, Then exibe significado e contexto/fonte.
+
+**Cenário alternativo: nenhum resultado**
+
+- **Dado** que não existe entrada correspondente à busca
+- **Quando** a pessoa usuária pesquisar o termo
+- **Então** o sistema deve informar que não encontrou resultados e permitir uma nova consulta
