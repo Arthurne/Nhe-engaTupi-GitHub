@@ -18,7 +18,7 @@
 
 ## Parte 2 — Especificações Detalhadas por História (Padrão Goals / Context / Story / Requirements / Acceptance Criteria)
 
-*(As especificações completas com protótipos conceituais de 7 telas, critérios de aceitação verificáveis e cenários BDD Dado/Quando/Então estão detalhadas na página [Sprint 2](../milestones/Sprint%202.md)).*
+*(As especificações completas com protótipos conceituais de 7 telas, critérios de aceitação verificáveis e cenários BDD Dado/Quando/Então estão detalhadas na página [Sprint 2](../sprints/Sprint%202.md)).*
 
 ---
 
@@ -251,4 +251,4 @@ O backlog reúne 18 histórias de usuário funcionais para o aplicativo Nhe’en
 
 ## Correspondência com a versão 2
 
-A tabela comparativa entre as histórias deste backlog v1 e o backlog v2 está na página [Sprint 2 — Backlog v2, protótipos e BDD](../03_Sprints_e_Arquitetura/02_Sprint2_Backlog_v2_Prototipos_BDD.md), na seção **Tabela de correspondência — Backlog v1 × Backlog v2**. Ela é uma proposta inicial para validação da equipe; este backlog v1 foi preservado como histórico.
+A tabela comparativa entre as histórias deste backlog v1 e o backlog v2 está na página [Sprint 2 — Backlog v2, protótipos e BDD](../sprints/Sprint%202.md), na seção **Tabela de correspondência — Backlog v1 × Backlog v2**. Ela é uma proposta inicial para validação da equipe; este backlog v1 foi preservado como histórico.
