@@ -22,7 +22,8 @@ Este índice reúne os registros das sprints e aponta para os documentos acadêm
 - [Backlog consolidado](../requisitos/User%20stories%20(Backlog).md)
 
 ## Sprint 3 — Detalhamento funcional
-- [Documentação da Sprint 3](Sprint%203.md)
+- [Documentação da Sprint 3 — planejamento e detalhamento funcional](Sprint%203.md)
+- [Central de Documentos — Índice e Governança do Projeto](../gestao/Central%20de%20Documentos%20%E2%80%94%20%C3%8Dndice%20e%20Governan%C3%A7a%20do%20Projeto.md) — documento complementar do PDF pt2
 - [Matriz de Rastreabilidade](../requisitos/Matriz%20de%20Rastreabilidade.md)
 
 ## Sprint 4 — Arquitetura e fechamento documental
