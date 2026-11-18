@@ -20,6 +20,7 @@ Este diretório reúne os artefatos acadêmicos do projeto. A organização segu
 - [Definição da ideia](gestao/Definição%20da%20ideia.md)
 - [Definição do nome](gestao/Definição%20do%20Nome.md)
 - [Documento de Visão do Produto](gestao/Documento%20de%20Visão%20do%20Produto%20-%20tarefa.md)
+- [Central de Documentos — Índice e Governança do Projeto](gestao/Central%20de%20Documentos%20%E2%80%94%20%C3%8Dndice%20e%20Governan%C3%A7a%20do%20Projeto.md)
 
 ### Pesquisa
 - [Entrevista e Personas](pesquisa/Entrevista%20+%20Personas.md)
