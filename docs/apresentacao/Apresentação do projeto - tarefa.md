@@ -96,14 +96,14 @@ O principal resultado documental é uma proposta de produto com visão, requisit
 
 ## Artefatos para abrir durante a apresentação
 
-1. [Documento de Visão do Produto](Documento%20de%20Vis%C3%A3o%20do%20Produto%20c9770191d97883e4938381f8f8ed135c.md)
-2. [Entrevista + Personas — referência principal](../Entrevista%20+%20Personas%20%E2%80%94%20refer%C3%AAncia%20principal%20(1)%201b370191d978820eab4281de0de2faa2.md)
-3. [Backlog do Produto — v1 (18 histórias)](../Backlog%20do%20Produto%20%E2%80%94%20v1%20(18%20hist%C3%B3rias)%20(1)%205c670191d9788378b3df81521529fc2b.md)
-4. [Sprint 1 — User Stories Éticas (UE01–UE25)](../Sprint%201%20%E2%80%94%20User%20Stories%20%C3%89ticas%20(UE01%E2%80%93UE25)%20(1)%202e370191d97882e69f350149d595b1c2.md)
-5. [Sprint 2 — Backlog v2, protótipos e BDD](../Sprint%202%20%E2%80%94%20Backlog%20v2,%20prot%C3%B3tipos%20e%20BDD%20(1)%20b8570191d978826790d401ee5193674c.md)
-6. [Matriz de Rastreabilidade — Nhe’engaTupi](../Matriz%20de%20Rastreabilidade%20%E2%80%94%20Nhe%E2%80%99engaTupi%20(1)%200ae70191d978830d92be816d88a17c45.md)
-7. [Sprint 1 — Review](Sprint%201%20%E2%80%94%20Review%209a070191d978829ab47c8133dbf72fae.md)
-8. [Sprint 1 — Retrospective](Sprint%201%20%E2%80%94%20Retrospective%2058270191d9788235b4c6011b75648193.md)
+1. [Documento de Visão do Produto](../gestao/Documento%20de%20Visão%20do%20Produto%20-%20tarefa.md)
+2. [Entrevista + Personas — referência principal](../pesquisa/Entrevista%20+%20Personas.md)
+3. [Backlog do Produto — v1 (18 histórias)](../requisitos/Histórias%20de%20usuário.md)
+4. [Sprint 1 — User Stories Éticas (UE01–UE25)](../requisitos/User%20Stories%20Éticas%20(UE01–UE25).md)
+5. [Sprint 2 — Backlog v2, protótipos e BDD](../sprints/Sprint%202.md)
+6. [Matriz de Rastreabilidade — Nhe’engaTupi](../requisitos/Matriz%20de%20Rastreabilidade.md)
+7. [Sprint 1 — Review](../sprints/Sprint%201%20Review.md)
+8. [Sprint 1 — Retrospective](../sprints/Sprint%201%20retrospective.md)
 
 ## Checklist final
 
