@@ -4,11 +4,11 @@
 
 Registrar requisitos éticos que orientem decisões do Nhe’engaTupi com foco em privacidade, acessibilidade, transparência, responsabilidade cultural, autonomia e bem-estar. Estas histórias complementam o backlog funcional, não o substituem.
 
-**Nota de validação:** a equipe confirmou a aprovação dos critérios de aceitação das 25 User Stories Éticas. A distribuição de 5 histórias por integrante permanece sujeita à confirmação final da equipe. As atas abaixo são modelos; preencher somente depois das reuniões reais.
+**Nota de validação:** há registros contraditórios sobre a aprovação dos critérios das 25 User Stories Éticas: uma nota menciona aprovação, enquanto o checklist final ainda solicita essa confirmação. Como não há decisão inequívoca documentada, a aprovação formal deve ser tratada como pendente. A distribuição de cinco histórias por integrante também é uma proposta sujeita à confirmação. As atas abaixo são modelos; preencher somente depois das reuniões reais.
 
 ## Distribuição das User Stories Éticas por integrante
 
-Cada integrante fica responsável por revisar suas cinco histórias, conferir os critérios de aceitação e preparar eventuais ajustes para validação da equipe. Esta divisão distribui a quantidade igualmente; não significa que as histórias já foram aprovadas ou implementadas.
+A tabela abaixo registra uma proposta de distribuição de cinco histórias por integrante para revisão. Ela não comprova atribuição aceita pela equipe, aprovação das histórias ou implementação.
 
 | Integrante | Histórias atribuídas |
 | --- | --- |
@@ -322,7 +322,7 @@ Preencher coletivamente após a reunião.
 ## Antes da entrega
 
 - Confirmar a distribuição das histórias por integrante.
-- Critérios de aceitação das 25 histórias confirmados como aprovados pela equipe.
+- Confirmar formalmente com a equipe os critérios de aceitação das 25 histórias e registrar a decisão.
 - Preencher atas apenas após as reuniões reais.
 - Relacionar histórias éticas às histórias funcionais correspondentes.
 - Não afirmar que uma funcionalidade foi implementada sem evidência.
