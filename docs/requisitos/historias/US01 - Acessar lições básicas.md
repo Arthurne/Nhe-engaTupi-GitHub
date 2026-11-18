@@ -42,3 +42,9 @@ When o estudante abre a área de aprendizagem e seleciona uma lição publicada,
 **Scenario Principal:**
 
 - Given que existe ao menos uma lição publicada, When o usuário selecionar a lição na Tela 1, Then o conteúdo é exibido e permite avançar.
+
+**Cenário alternativo: nenhuma lição publicada**
+
+- **Dado** que nenhuma lição está disponível
+- **Quando** a pessoa usuária abrir a área de aprendizagem
+- **Então** o sistema deve informar que não há lições disponíveis, sem exibir uma tela vazia ou erro técnico
