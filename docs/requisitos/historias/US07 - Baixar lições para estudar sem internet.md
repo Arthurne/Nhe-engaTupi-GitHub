@@ -42,3 +42,9 @@ When o estudante solicita o download de uma lição compatível e conclui com su
 **Scenario Principal:**
 
 - Given conexão disponível, When baixar lição compatível com sucesso, Then ela é identificada como disponível offline.
+
+**Cenário alternativo: download falhou**
+
+- **Dado** que a pessoa usuária solicitou o download de uma lição
+- **Quando** ocorrer uma falha no processo
+- **Então** o sistema deve informar a falha e não marcar a lição como disponível offline
