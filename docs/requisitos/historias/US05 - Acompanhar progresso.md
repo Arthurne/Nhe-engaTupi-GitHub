@@ -42,3 +42,9 @@ When o estudante acessa a área de progresso, Then o sistema exibe lições conc
 **Scenario Principal:**
 
 - Given atividades concluídas, When abrir a Tela 7 (Progresso), Then os registros são exibidos de forma privada e com nota explicativa.
+
+**Cenário alternativo: histórico sem atividades concluídas**
+
+- **Dado** que a pessoa usuária ainda não concluiu nenhuma lição
+- **Quando** abrir a área de progresso
+- **Então** o sistema deve informar que ainda não há registros, sem apresentar indicadores enganosos
