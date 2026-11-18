@@ -42,3 +42,9 @@ When o estudante abre um conteúdo histórico ou cultural, Then o sistema exibe 
 **Scenario Principal:**
 
 - Given conteúdo cultural com fonte registrada, When o usuário abrir o item na Tela 3, Then o texto e a fonte são exibidos.
+
+**Cenário alternativo: informação incerta**
+
+- **Dado** que um conteúdo possui uma incerteza ou divergência registrada
+- **Quando** a pessoa usuária consultar esse conteúdo
+- **Então** o sistema deve explicitar a limitação, sem apresentar a informação como certeza absoluta
