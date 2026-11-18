@@ -42,3 +42,9 @@ When a pessoa usuária abre a área Premium, Then visualiza preço, benefícios,
 **Scenario Principal:**
 
 - Given usuário sem assinatura, When acessar área Premium, Then visualiza preço, benefícios e condições antes de contratar.
+
+**Cenário alternativo: acesso a recursos gratuitos**
+
+- **Dado** que a pessoa usuária não possui assinatura Premium
+- **Quando** acessar os recursos gratuitos previstos
+- **Então** o sistema deve permitir o uso desses recursos e identificar claramente quais itens exigem assinatura
