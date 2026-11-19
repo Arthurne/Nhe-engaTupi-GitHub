@@ -100,13 +100,13 @@ A Sprint 4 documenta uma proposta de **arquitetura em três camadas, organizada 
 
 ## 7. Equipe
 
-Equipe do projeto:
+Equipe do projeto, em ordem alfabética:
 
-- Arthur Neto
-- João Alisson
-- Kaany Araújo
-- Maria Gabriella
-- Wesley Kaue
+- **Arthur Neto Coutinho da Silva** — [arthur.coutinho@dcx.ufpb.br](mailto:arthur.coutinho@dcx.ufpb.br)
+- **Joao Alisson de Oliveira Freitas** — [joao.freitas@dcx.ufpb.br](mailto:joao.freitas@dcx.ufpb.br)
+- **Kaany Araújo Feitosa Rolin** — [kaany.rolin@dcx.ufpb.br](mailto:kaany.rolin@dcx.ufpb.br)
+- **Maria Gabriella de Oliveira Barbosa** — [maria.oliveira@dcx.ufpb.br](mailto:maria.oliveira@dcx.ufpb.br)
+- **Wesley Kaue da Silva Macedo** — [wesley.macedo@dcx.ufpb.br](mailto:wesley.macedo@dcx.ufpb.br)
 
 ## 8. Tecnologias e ferramentas
 
